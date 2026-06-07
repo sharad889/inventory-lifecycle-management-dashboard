@@ -67,7 +67,8 @@ Inventory Analysis
 )
 
 Reorder Monitoring
-(<img width="452" height="436" alt="Screenshot 2026-06-07 204215" src="https://github.com/user-attachments/assets/65464a3d-a021-4ca4-a488-872d22792ceb" />
+(<img width="453" height="437" alt="image" src="https://github.com/user-attachments/assets/270cda98-400b-44ba-b77e-24e06f4b30a5" />
+
 )
 
 ⸻
